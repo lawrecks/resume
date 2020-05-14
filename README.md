@@ -1,2 +1,2 @@
 # resume
-A template that can used to create a static resume 
+A template that can be used to create a static resume 
