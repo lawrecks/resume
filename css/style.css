@@ -31,6 +31,13 @@ header {
     font-family: PaulGrotesk-Regular;
     line-height: 1.6rem;
 }
+.personal-details h4 a {
+    font-size:0.8rem;
+    font-family: PaulGrotesk-Regular;
+    line-height: 1.6rem;
+    text-decoration: none;
+    color: inherit;
+}
 .personal-details h3 {
     margin-bottom: 1rem;
     font-size:1.5rem;
@@ -98,9 +105,10 @@ main h3 {
 .skills {
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-between;
+    /* justify-content: space-between; */
 }
 .skills h4 {
     border-bottom: 1px solid #c8d5da;
     padding: 0.4rem 0.2rem;
+    margin-right: 0.3rem;
 }
